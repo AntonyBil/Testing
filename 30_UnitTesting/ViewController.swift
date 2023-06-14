@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let math = Arithmatic()
+    let math = Arithmetic()
 
     override func viewDidLoad() {
         super.viewDidLoad()
